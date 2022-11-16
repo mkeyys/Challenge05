@@ -22,3 +22,5 @@ Lập trình bằng ngôn ngữ PHP (yêu cầu không sử dụng framework có
 
 - Tạo chức năng cho phép giáo viên tổ chức 1 trò chơi giải đố như sau:
     - Giáo viên tạo challenge, trong đó cần thực hiện: upload lên 1 file txt có nội dung là 1 bài thơ, văn,…, tên file được viết dưới định dạng không dấu và các từ cách nhau bởi 1 khoảng trắng. Sau đó nhập gợi ý về challenge và submit. (Đáp án chính là tên file mà giáo viên upload lên. Không lưu đáp án ra file, DB,…) (1đ)
+
+- Link 000webhost: https://challenge5a-khangcm.000webhostapp.com/Chall05a_khangcm/login.php (Vẫn đang lỗi )
